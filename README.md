@@ -1,6 +1,6 @@
 # Global-deforestation---Capstone-Project
 
-![Uploading janusz-maniak-_yWe_pzIj2E-unsplash.jpg…]()
+![Alt Text] (janusz-maniak-_yWe_pzIj2E-unsplash.jpg)
 
 
 
