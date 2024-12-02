@@ -1,6 +1,6 @@
 # Global-deforestation---Capstone-Project
 
-![janusz-maniak-_yWe_pzIj2E-unsplash.jpg](81871b94-7acd-406d-9ac5-8c5235d0f44c.jpg)
+![janusz-maniak-_yWe_pzIj2E-unsplash.jpg](81871b94-7acd-406d-9ac5-8c5235d0f44c.jpg]
 
 * **1.1 Project Overview** This report aims to discuss the topic of deforestation & what we can do as a population to stop it.
 Deforestation is a worldwide concern & according to the Green Earth Blog - many countries - such as Honduras, The Phillipines & Benin - have high deforestation rates. We will explore why the world needs trees, the leading causes of deforestation, the objectives of the project as well as the origin of the data & the importance of the study. Using statistical data analysis, creating visuals & training & evaluating models - my goal is to find possible solutions to the issue of deforestation.   
